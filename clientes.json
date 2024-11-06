@@ -1,0 +1,63 @@
+[
+    {
+      "nome": "João Silva",
+      "data_nascimento": "1990-05-14",
+      "RG": "45.123.456-7",
+      "CPF": "123.456.789-01",
+      "endereço": "Rua das Flores, 123",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "celular": "(11) 91234-5678",
+      "email": "joao.silva@example.com"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "data_nascimento": "1985-08-23",
+      "RG": "32.987.654-3",
+      "CPF": "987.654.321-09",
+      "endereço": "Avenida Brasil, 456",
+      "bairro": "Jardim Paulista",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "celular": "(21) 99876-5432",
+      "email": "maria.oliveira@example.com"
+    },
+    {
+      "nome": "Carlos Pereira",
+      "data_nascimento": "1978-11-02",
+      "RG": "11.222.333-9",
+      "CPF": "111.222.333-44",
+      "endereço": "Rua das Palmeiras, 789",
+      "bairro": "Copacabana",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "celular": "(31) 97765-4321",
+      "email": "carlos.pereira@example.com"
+    },
+    {
+      "nome": "Ana Costa",
+      "data_nascimento": "1995-03-30",
+      "RG": "44.555.666-8",
+      "CPF": "444.555.666-77",
+      "endereço": "Rua dos Pinhais, 321",
+      "bairro": "Vila Mariana",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "celular": "(41) 98765-1234",
+      "email": "ana.costa@example.com"
+    },
+    {
+      "nome": "Pedro Souza",
+      "data_nascimento": "1982-07-19",
+      "RG": "77.888.999-0",
+      "CPF": "777.888.999-00",
+      "endereço": "Rua do Sol, 654",
+      "bairro": "Boa Vista",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "celular": "(51) 93456-7890",
+      "email": "pedro.souza@example.com"
+    }
+  ]
+  
